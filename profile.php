@@ -5,7 +5,7 @@
 <!DOCTYPE html>
 <head>
 	<head>
-		<?php include '/home/donbrogdon91/melodicodyssey.com/includes/header.php'; ?>
+		<?php include '/../includes/includes/header.php'; ?>
 	</head>
 	<body>
 		<?php  if (isset($_SESSION['username'])) : ?>
